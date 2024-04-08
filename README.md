@@ -12,5 +12,5 @@ Blocks provided by Thames & Kosmos for Robotics Workshop with Micro:Bit
 
 
 ```package
-Gigotools=github:thamesandkosmos/RoboticsWorkshop
+RoboticsWorkshop=github:thamesandkosmos/RoboticsWorkshop
 ```
